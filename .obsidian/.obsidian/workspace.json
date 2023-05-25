@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c6278d6308ff53c3",
+    "id": "bf71fbbee655ecc1",
     "type": "split",
     "children": [
       {
-        "id": "d92ecebe956689eb",
+        "id": "db6967b6f05aee82",
         "type": "tabs",
         "children": [
           {
-            "id": "57a0fed12a80ef76",
+            "id": "e7a9e89f302c491c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0dcfd01e526edc54",
+    "id": "ad818b5cb30fe406",
     "type": "split",
     "children": [
       {
-        "id": "23df0d7537153ce2",
+        "id": "a6ef5eb9cb6f866b",
         "type": "tabs",
         "children": [
           {
-            "id": "2db64bbbfc53e83f",
+            "id": "1bcaef2adb69d91f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "71ffeb80058ef759",
+            "id": "7a7623f0f461dd4f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "fba4c29a5338a48b",
+            "id": "843abf6809a29c19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "47218c1b5be9b8a4",
+    "id": "7ff35ab6863796d9",
     "type": "split",
     "children": [
       {
-        "id": "eceb1e6d7ddd97a3",
+        "id": "14e743a88f59ad7d",
         "type": "tabs",
         "children": [
           {
-            "id": "f2bfbea2c9d62829",
+            "id": "2d6a7e5cd7cf6ab1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "f88665fdea8a08b7",
+            "id": "c8167a1f6b8d996c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "7dda86a8481c2978",
+            "id": "ce388c6c38b630cc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "3780537c837da61b",
+            "id": "fc12abce7f9dae16",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,6 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a0fed12a80ef76",
-  "lastOpenFiles": []
+  "active": "e7a9e89f302c491c",
+  "lastOpenFiles": [
+    "TRAVELERS - Policies by Date - FINAL.xlsx",
+    "RIVERSTONE - Policies by Date - FINAL.xlsx",
+    "MUNICH - Policies by Date - 5.12.23 - FINAL.xlsx",
+    "MARKEL - Policies by Date - FINAL.xlsx",
+    "LLOYDS - Policies by Date - FINAL.xlsx",
+    "LIBERTY - Policies by Date - FINAL.xlsx",
+    "HARTFORD - Policies by Date - FINAL.xlsx",
+    "GREAT AMERICAN - Policies by Date - FINAL.xlsx",
+    "CNA - Policies by Date - FINAL.xlsx",
+    "CHUBB - Policies by Date - FINAL.xlsx",
+    "ARROWPOINT - Policies by Date - FINAL.xlsx"
+  ]
 }
