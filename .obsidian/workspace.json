@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Stakeholders.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Stakeholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Stakeholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Untitled.md"
+                "file": "Stakeholders.md"
               }
             }
           }
@@ -167,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbcf89ff1c194867",
+  "active": "2db64bbbfc53e83f",
   "lastOpenFiles": [
-    "Archdiocese of New York - Service Organization Agreement_08-09-19.docx",
-    "Stakeholders.md",
     "Untitled/Untitled.md",
+    "Stakeholders.md",
+    "Archdiocese of New York - Service Organization Agreement_08-09-19.docx",
     "Untitled/Archdiocese of New York - Service Organization Agreement_08-09-19 1.docx",
     "Untitled/Archdiocese of New York - Service Organization Agreement_08-09-19.docx",
     "Untitled.md",
@@ -181,7 +181,6 @@
     "ADNY- Archdiocese of New York/MUNICH - Policies by Date - 5.12.23 - FINAL.xlsx",
     "ADNY- Archdiocese of New York/MARKEL - Policies by Date - FINAL.xlsx",
     "ADNY- Archdiocese of New York/LLOYDS - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/LIBERTY - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/HARTFORD - Policies by Date - FINAL.xlsx"
+    "ADNY- Archdiocese of New York/LIBERTY - Policies by Date - FINAL.xlsx"
   ]
 }
