@@ -9,6 +9,14 @@ Alfred Kelly III Alfred.Kelly3@archny.org
 Lauren Krauss Lauren.Krauss@archny.org
 Frank Napolitano Frank.Napolitano@archny.org
 Michele Pierro mpierro@iagltd.com
+Sara C Tilitz Sara.Tilitz@brandywineholdings.com
+Brian G Fox Brian.Fox@mclolaw.com
+Robyn Michaelson robyn.michaelson@blankrome.com
+James Carter james.carter@blankrome.com
+Megan Handler Megan_Handler@trg.com
+Jmurray JMurray@BlankRome.com
+
+
 
 
 
