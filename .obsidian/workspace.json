@@ -8,27 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "daa6281412547a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stakeholders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "57a0fed12a80ef76",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "daa6281412547a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stockholders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stockholders.md",
+                "file": "Stakeholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stockholders.md",
+                "file": "Stakeholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stockholders.md"
+                "file": "Stakeholders.md"
               }
             }
           }
@@ -157,7 +156,7 @@
   },
   "active": "daa6281412547a2a",
   "lastOpenFiles": [
-    "Stockholders.md",
+    "Stakeholders.md",
     "Untitled",
     "ADNY- Archdiocese of New York/TRAVELERS - Policies by Date - FINAL.xlsx",
     "ADNY- Archdiocese of New York/RIVERSTONE - Policies by Date - FINAL.xlsx",
