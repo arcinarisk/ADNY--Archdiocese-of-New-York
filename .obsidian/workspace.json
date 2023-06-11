@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db64bbbfc53e83f",
+  "active": "daa6281412547a2a",
   "lastOpenFiles": [
     "Untitled/Untitled.md",
     "Stakeholders.md",
