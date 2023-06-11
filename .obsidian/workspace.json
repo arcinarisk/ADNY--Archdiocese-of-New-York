@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daa6281412547a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stakeholders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bbcf89ff1c194867",
             "type": "leaf",
             "state": {
@@ -166,7 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "daa6281412547a2a",
+=======
+  "active": "bbcf89ff1c194867",
+>>>>>>> b7cc1ea87f76aca4abdc9479020ad5fabf297fb7
   "lastOpenFiles": [
     "Untitled/Untitled.md",
     "Stakeholders.md",
