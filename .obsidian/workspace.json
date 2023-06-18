@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9ab093c2e5fbf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Carries Polices By Date/TRAVELERS - Policies by Date - FINAL.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Carries Polices By Date/TRAVELERS - Policies by Date - FINAL.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Carries Polices By Date/TRAVELERS - Policies by Date - FINAL.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -146,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2a647c680a2cc87",
+  "active": "b9ab093c2e5fbf60",
   "lastOpenFiles": [
+    "Stakeholders.md",
+    "HomePage.md",
+    "ADNY- Archdiocese of New York/Assets/Contact Info for the Group 4.24.23.md",
+    "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
+    "ADNY- Archdiocese of New York/Assets/Chart/Archdiocese NY 1990-2011_08-28-19.pdf",
+    "ADNY- Archdiocese of New York/Carries Polices By Date/TRAVELERS - Policies by Date - FINAL.md",
     "ADNY- Archdiocese of New York/Carries Polices By Date/RIVERSTONE - Policies by Date - FINAL.md",
     "ADNY- Archdiocese of New York/Carries Polices By Date/MUNICH - Policies by Date - 5.12.23 - FINAL.md",
     "ADNY- Archdiocese of New York/Carries Polices By Date/MARKEL - Policies by Date - FINAL.md",
@@ -160,7 +179,6 @@
     "ADNY- Archdiocese of New York/Carries Polices By Date/CHUBB - Policies by Date - FINAL.md",
     "ADNY- Archdiocese of New York/Carries Polices By Date/ALLIANZ - Policies by Date - FINAL.md",
     "ADNY- Archdiocese of New York/Carries Polices By Date/AIG - Policies by Date - FINAL.md",
-    "ADNY- Archdiocese of New York/Carries Polices By Date/TRAVELERS - Policies by Date - FINAL.md",
     "ADNY- Archdiocese of New York/Carries Polices By Date/TRAVELERS - Policies by Date - FINAL.xlsx",
     "ADNY- Archdiocese of New York/Carries Polices By Date/RIVERSTONE - Policies by Date - FINAL.xlsx",
     "ADNY- Archdiocese of New York/Carries Polices By Date/MUNICH - Policies by Date - 5.12.23 - FINAL.xlsx",
@@ -169,10 +187,6 @@
     "ADNY- Archdiocese of New York/Carries Polices By Date/LIBERTY - Policies by Date - FINAL.xlsx",
     "ADNY- Archdiocese of New York/Carries Polices By Date/HARTFORD - Policies by Date - FINAL.xlsx",
     "ADNY- Archdiocese of New York/Carries Polices By Date/GREAT AMERICAN - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/Carries Polices By Date/CNA - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/Carries Polices By Date/CHUBB - Policies by Date - FINAL.xlsx",
-    "Stakeholders.md",
-    "ADNY- Archdiocese of New York/Assets/Contact Info for the Group 4.24.23.md",
     "ADNY- Archdiocese of New York/Assets/Chart/Untitled.md"
   ]
 }
