@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc53959244cc42ee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "af7e57937c1d793b",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,9 +148,9 @@
   },
   "active": "af7e57937c1d793b",
   "lastOpenFiles": [
+    "Stakeholders.md",
     "ADNY- Archdiocese of New York/Assets/Contact Info for the Group 4.24.23.md",
     "ADNY- Archdiocese of New York/Assets/Chart/ADNY - Insurers by Group with Contact Info for the Group 4.24.23.xlsx",
-    "Stakeholders.md",
     "ADNY- Archdiocese of New York/Assets/ADNY - Insurers by Group with Contact Info for the Group 4.24.23.xlsx",
     "ADNY- Archdiocese of New York/Assets/Chart/Archdiocese NY 1990-2011_08-28-19.pdf",
     "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
