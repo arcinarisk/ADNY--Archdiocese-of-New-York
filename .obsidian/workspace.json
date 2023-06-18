@@ -19,9 +19,11 @@
             "id": "af7e57937c1d793b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf"
+                "file": "Stakeholders.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 674.5
   },
   "right": {
     "id": "b7e799ea3864b4a2",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
+                "file": "Stakeholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
+                "file": "Stakeholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf"
+                "file": "Stakeholders.md"
               }
             }
           }
@@ -155,7 +157,13 @@
   },
   "active": "af7e57937c1d793b",
   "lastOpenFiles": [
+    "ADNY- Archdiocese of New York/Assets/Contact Info for the Group 4.24.23.md",
+    "ADNY- Archdiocese of New York/Assets/Chart/ADNY - Insurers by Group with Contact Info for the Group 4.24.23.xlsx",
     "Stakeholders.md",
-    "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf"
+    "ADNY- Archdiocese of New York/Assets/ADNY - Insurers by Group with Contact Info for the Group 4.24.23.xlsx",
+    "ADNY- Archdiocese of New York/Assets/Chart/Archdiocese NY 1990-2011_08-28-19.pdf",
+    "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
+    "ADNY- Archdiocese of New York/Assets/Chart/Untitled.md",
+    "ADNY- Archdiocese of New York/Assets/Chart"
   ]
 }
