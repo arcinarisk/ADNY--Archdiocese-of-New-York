@@ -1,47 +1,46 @@
 {
   "main": {
-    "id": "c6278d6308ff53c3",
+    "id": "bf7f66799b4949bc",
     "type": "split",
     "children": [
       {
-        "id": "d92ecebe956689eb",
+        "id": "38768cda3ac2cbad",
         "type": "tabs",
         "children": [
           {
-            "id": "bbcf89ff1c194867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stakeholders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57a0fed12a80ef76",
+            "id": "cc53959244cc42ee",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "af7e57937c1d793b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0dcfd01e526edc54",
+    "id": "b5323aa702f01be4",
     "type": "split",
     "children": [
       {
-        "id": "23df0d7537153ce2",
+        "id": "0ba6201c98c3babf",
         "type": "tabs",
         "children": [
           {
-            "id": "2db64bbbfc53e83f",
+            "id": "66de7ccd22fd524b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +50,7 @@
             }
           },
           {
-            "id": "71ffeb80058ef759",
+            "id": "63ce931406a6b8cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +65,7 @@
             }
           },
           {
-            "id": "fba4c29a5338a48b",
+            "id": "38fbbc92b63f6c66",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "47218c1b5be9b8a4",
+    "id": "b7e799ea3864b4a2",
     "type": "split",
     "children": [
       {
-        "id": "eceb1e6d7ddd97a3",
+        "id": "b8d6f642a5b3d727",
         "type": "tabs",
         "children": [
           {
-            "id": "f2bfbea2c9d62829",
+            "id": "fbc69c0b75b1092b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stakeholders.md",
+                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +104,19 @@
             }
           },
           {
-            "id": "f88665fdea8a08b7",
+            "id": "5fd023979a2c36b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stakeholders.md",
+                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7dda86a8481c2978",
+            "id": "9fe1a801a009ab06",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +127,12 @@
             }
           },
           {
-            "id": "3780537c837da61b",
+            "id": "4bf790293ded9e1f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stakeholders.md"
+                "file": "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf"
               }
             }
           }
@@ -154,24 +153,9 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "daa6281412547a2a",
-=======
-  "active": "bbcf89ff1c194867",
->>>>>>> b7cc1ea87f76aca4abdc9479020ad5fabf297fb7
+  "active": "af7e57937c1d793b",
   "lastOpenFiles": [
-    "Untitled/Untitled.md",
     "Stakeholders.md",
-    "Archdiocese of New York - Service Organization Agreement_08-09-19.docx",
-    "Untitled/Archdiocese of New York - Service Organization Agreement_08-09-19 1.docx",
-    "Untitled/Archdiocese of New York - Service Organization Agreement_08-09-19.docx",
-    "Untitled.md",
-    "Untitled",
-    "ADNY- Archdiocese of New York/TRAVELERS - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/RIVERSTONE - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/MUNICH - Policies by Date - 5.12.23 - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/MARKEL - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/LLOYDS - Policies by Date - FINAL.xlsx",
-    "ADNY- Archdiocese of New York/LIBERTY - Policies by Date - FINAL.xlsx"
+    "ADNY- Archdiocese of New York/Assets/Archdiocese of New York - Service Organization Agreement_08-09-19.pdf"
   ]
 }
